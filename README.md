@@ -1,0 +1,2 @@
+# exercice_initiation_risque_et_securite
+MODULE
